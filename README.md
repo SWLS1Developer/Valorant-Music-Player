@@ -21,4 +21,5 @@ You should install Virtual Audio Cables (VAC) in order to brodast *.mp3 to game.
      
     
  Minute = (second - second Mod 60) / 6
+ 
  Second =  second Mod 60
