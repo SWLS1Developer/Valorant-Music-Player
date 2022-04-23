@@ -26,3 +26,6 @@ You should install Virtual Audio Cables (VAC) in order to brodast *.mp3 to game.
  Minute = (second - second Mod 60) / 6
  
  Second =  second Mod 60
+ 
+ 
+ btw put music config files inside cfg folder in application startup location (I think git hub is bugged cant upload files properly thats why its messy :( )
