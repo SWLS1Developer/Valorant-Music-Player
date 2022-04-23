@@ -14,7 +14,7 @@ You should install Virtual Audio Cables (VAC) in order to brodast *.mp3 to game.
  
   -Set valorant mic to VAC too. 
   
-    -Also set your PTT key to "U"
+   -Also set your PTT key to "U"
   
   # Lyrics Config
   
