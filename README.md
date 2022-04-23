@@ -13,3 +13,12 @@ You should install Virtual Audio Cables (VAC) in order to brodast *.mp3 to game.
   -Set valorant mic to VAC too. 
     -Also set your PTT key to "U"
   
+  # Lyrics Config
+  
+     file-path:C:\VMP\music\testmusic.mp3
+     23^1st line that is going to play at 23th second
+     26^2nd line that is going to play at 26th second
+     
+    
+ Minute = (second - second Mod 60) / 6
+ Second =  second Mod 60
