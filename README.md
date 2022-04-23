@@ -9,8 +9,11 @@ This is a low effort project and i did not spend much time to it. (Has some bugs
 # For music player to work propperly
 
 You should install Virtual Audio Cables (VAC) in order to brodast *.mp3 to game.
+
  -Go to advanced sound settings and set this application's output to vac (Virtual Audio Cable) 
+ 
   -Set valorant mic to VAC too. 
+  
     -Also set your PTT key to "U"
   
   # Lyrics Config
